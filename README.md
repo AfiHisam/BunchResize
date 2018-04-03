@@ -10,13 +10,13 @@ $ git clone https://github.com/AfiHisam/BunchResize.git
 Display optional arguments
 
 $ python resize.py -h  
-
+<pre>
   -h, --help      show this help message and exit
   -i , --input    Images location input
   -s , --save     Save location
   -w , --width    Images width
   -H , --height   Images height
-
+</pre>
 ## Test run
 ### Situation 
 
